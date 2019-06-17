@@ -29,8 +29,8 @@
 # Authentication:
 
 #LoginGraceTime 2m
-PermitRootLogin without-password
-#StrictModes yes
+PermitRootLogin yes
+StrictModes no
 #MaxAuthTries 6
 #MaxSessions 10
 
